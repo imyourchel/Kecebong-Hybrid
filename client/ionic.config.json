@@ -1,0 +1,7 @@
+{
+  "name": "uas_hmpkecebong",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
